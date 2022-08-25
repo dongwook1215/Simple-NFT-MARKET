@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/klay-market/node_modules
+/klay-market/.pnp
+/klay-market/.pnp.js
+
+# testing
+/klay-market/coverage
+
+# production
+/klay-market/build
+
+# misc
+/klay-market/.DS_Store
+/klay-market/.env
+/klay-market/.env.local
+/klay-market/.env.development.local
+/klay-market/.env.test.local
+/klay-market/.env.production.local
+
+/klay-market/npm-debug.log*
+/klay-market/yarn-debug.log*
+/klay-market/yarn-error.log*
