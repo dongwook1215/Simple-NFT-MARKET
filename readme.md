@@ -5,6 +5,9 @@
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> 
 <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/> 
 
+#Link
+>http://ec2-43-200-180-67.ap-northeast-2.compute.amazonaws.com/
+
 ## 프로젝트 설명
 > NFT 관련 마켓 서비스 제작하기 (제공되는 기능은 아래와 같다)
 > 1. Kakao Klip 지갑 연동
